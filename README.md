@@ -124,7 +124,7 @@ spring.datasource.password=votre_mot_de_passe
 
 ## 🤝 Support
 
-📧 Email : [votre-email]
+📧 Email : [fattouhiradwa@gmail.com]
 🐛 Issues : Via GitHub
 
 ```
