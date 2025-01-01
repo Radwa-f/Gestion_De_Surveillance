@@ -108,9 +108,6 @@ frontend/
 ...
 ```
 
-## 📚 API Documentation
-
-Swagger UI: `http://localhost:8088/swagger-ui.html`
 
 ## ⚙️ Configuration
 
